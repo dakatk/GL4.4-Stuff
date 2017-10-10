@@ -1,4 +1,6 @@
 # GL4.4-Stuff
+#
+# Author: Dusten Knull
 
 This project showcases a few modern OpenGL techniques in a rather extensive C++ program. This project is meant solely for 
 testing purposes and to show off and try out new concepts in OpenGL development. The project itself should be fairly
